@@ -1,0 +1,45 @@
+
+a.link1:link, a.link1:visited {
+  background-color: none;
+  color: rgb(96, 96, 96);
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+a.link1:hover, a.link1:active {
+  background-color: rgb(0, 0, 0);
+  color: white;
+}
+
+
+.hi{
+  margin-top: 200px;
+  width: 700px;
+  margin-left: 150px;
+  color: rgb(96, 96, 96);
+}
+.ho{
+  line-height: 0%;
+}
+.ho h1{
+  font-size: 3em;
+}
+.ho h2{
+  font-size: 2em;
+}
+a.he:link , a.he:visited{
+    background-color: black;
+    color:rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 15px 30px;
+    text-align: center;
+}
+a.he:hover , a.he:active{
+  border: 2px solid black;
+  background-color: #e3e3e3;
+  color: rgb(96, 96, 96);
+}
